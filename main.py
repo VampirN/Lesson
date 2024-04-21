@@ -1,2 +1,1 @@
-def foo():
-    return True
+print ("Hello word")
